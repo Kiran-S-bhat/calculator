@@ -12,14 +12,8 @@ Math Calculator
 - [x] Percentage
 
 
-### Reboot13
+### Kiran bhat
 
-[Telegram](https://telegram.me/reboot13_dev)
 
-[Twitter](https://twitter.com/reboot13_dev)
+[Instagram](https://instagram.com/k.s.bhat)
 
-[Instagram](https://instagram.com/reboot13_dev)
-
-[LinkedIN](https://linkedin.com/in/reboot13)
-
-[Youtube](https://youtube.com/krutikraut)
